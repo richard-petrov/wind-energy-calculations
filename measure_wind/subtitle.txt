@@ -1,0 +1,130 @@
+Welcome, my name is Mike Courtney. I am Senior Researcher and head of
+section at DTU Wind and Energy Systems. In today's lecture, we're going to explore why we need
+to measure the wind in wind energy. After this lecture, you will be
+able to list the main reasons for performing wind measurements
+in wind energy and be able to describe the main parameter,
+us, that are necessary to measure. So firstly, of course,
+wind is wind energy's fuel. Many know the classic formula expressing
+the power P from a wind turbine, and that is here P is equal to one
+half the density times the area times the cube of the wind speed
+multiplied by the power factor. So from this expression, we can clearly see that it's really
+important to know the wind speed. More interestingly, because we
+can see that the power varies so rapidly with the wind speed, it's actually necessary to measure
+the wind as accurately as possible. Even small errors on measuring
+the wind speed will give a large error on the measured power. The second reason for
+measuring the wind is less obvious. But as well as providing the power,
+the wind also makes wind turbines bend. It provides the largest loading on
+the wind turbine as we had for the power. We have another classic formula
+that expresses the rotor thrust, which is the load acting on
+the rotor as a function of the of the same variables we saw before. Here we have the same half and
+the air density Rho and the area of A, and this time V squared. And then lastly,
+the thrust coefficient CT. So as for the power, we can clearly see that the loads also
+depend very heavily on the wind speed. In the picture here, you can clearly
+see how the thrust on the rotor, the wind is of course coming from this
+direction, how that is bending the blades. And if the blade bends too much,
+of course, it can even hit the tower here,
+not only is it a problem for the blades. But of course this thrust acting
+on the rotor that gets pushed into the turbine through the nacelle and
+all the way down the tower and actually right down to the foundations. So if we don't get our wind calculations
+correct, and if we don't know what the wind speed will be, then possibly
+the wind turbine could even topple. There's a second less obvious
+reason why the wind is an extremely important loading factor for
+wind turbines, and that is turbulence. Turbulence, of course, is the small variations in wind
+speed that we see all the time. And turbulence causes the loads
+acting on both the blades and the tower to change all the time. This induces fatigue in the tower and
+in the blades and can also ultimately cause
+the turbine to fail. Before we look at some applications for
+wind, let's actually have
+a look at some wind data. Here is ten minutes of wind speed measured
+from a couple of meter, as you see here. Straight away we can see the very
+turbulent nature of the wind. You can see how the speed is going up and
+down all the time. It's very usual to look at 10 minutes
+of wind speed data at a time. And we will always firstly
+calculate the mean speed. Here it's around 9 meters per second. And then we will calculate
+the standard deviation of the speed. Here it's about 1.6. And lastly, using these two numbers,
+we will actually calculate what we call the turbulence intensity,
+usually referred to as TI, in this case 1.6 divided by 9, and
+expressing this as a percentage, 18.5%. Just to recap,
+this is a very important parameter. The turbulence intensity is the standard
+deviation of the wind speed divided by the wind speed expressed as a percentage. Let's also look at some wind direction
+data that's also very important. And here it's measured from a wind vane,
+also 10 minutes, in fact, the same 10 minute period
+that we saw in the previous slide. Here as well, you can see that
+the wind direction is also turbulent, it's fluctuating all the time. And here, as well, we will usually
+always calculate the mean value. Here it's around 180 degrees. And also the standard deviation
+of the wind direction. The wind direction is defined
+as the direction that the wind is coming from and
+is measured clockwise from the north. So now we're going to look
+at some applications and then see what we need to know
+about the wind and when. We're going to look at
+testing of new prototypes, determining the wind
+resource at a new site, making sure that newly purchased turbines
+produce the power that is promised. And lastly we'll ask the question do
+turbines themselves actually need wind measurements? The first and most obvious thing to test is how
+much power does the turbine produce? Does it actually live up to
+the expectations of the manufacturer? And to do this, we of course need to measure the mean
+wind speed probably at several heights. We need to measure the turbulence
+intensity because the power also vary to a certain extent with the turbulence. We need to know the wind directions to
+make sure we have the correct inflow conditions. And lastly,
+we'll need to measure the temperature and pressure of the air in order
+to know the air density. But it's also very important when
+testing a prototype to make sure that the turbine will survive. Meaning do the measure loads actually
+agree with the loads that have been calculated and
+simulated in large aeroelastic models? Many of the parameters we
+need here are the same. We will also need what we
+call a profile of wind speed, that is how the wind
+speed varies with height. We will need also the profile
+of wind direction. That's what we call wind via. And again, the turbulence intensity is
+absolutely essential to know another important application of wind measurements
+is looking at proposed new wind projects. What do we need to know there? Firstly, of course, we need to
+know how much energy we can expect the project to deliver,
+because ultimately the energy will also tell us how much money we
+can make from the project. In order to measure the energy,
+of course, we need to put up a mast and put some instruments. And then we need to measure
+the horizontal wind speed, and we need to measure the wind direction. And once more, of course,
+we need to know the air temperature and the pressure so
+that we can always know the air density. It is also important to know what is
+the wind climate by wind climate, we mean how severe is the wind
+loading at that particular site. So that means that we need to actually
+measure this time some time series of wind speed and directions. And from those we need to calculate
+the turbulence intensity. It's always very important. We need to calculate the wind shear, how rapidly the wind speed
+changes with height. And then we need to look at what we call
+gusts, which is how the wind speed changes in a short period of time, typically
+1 second, 2 seconds, or 5 seconds. Lastly, we try and
+calculate a parameter we call V50, which is the10 minute mean
+wind speed that we expect from the measurements that maybe
+not more than one year. But from those, we try and predict this maximum mean speed that
+we expect to see once in 50 years. All these parameters will be given
+to the turbine manufacturer, and we'll help the manufacturer choose
+the class of turbine that is suited and dimensioned to the wind conditions
+at the particular site. Now, let's imagine that our wind
+project has got installed here. I show a picture of a newly installed wind
+offshore wind farm on the east of England. What do we need to know here? Well, really, it's the operator of
+the wind farm who's paid the money. They need to know whether they're getting
+the energy that they've been promised by the turbine manufacturers. To do this, we perform a procedure
+called a power curve verification. And that simply means that we measure
+10 minute means of wind speed and simultaneously measure the turbine power. We do this over the operating
+range of the wind turbine. It's a process that can take some months. And from that we can actually derive what
+we call the power curve and the AEP, the annual energy production that's
+expected from the turbines, and see if this agrees with what
+the manufacturer has promised us. Now, let's look at
+the interesting question. Do wind turbines themselves
+actually need wind measurements? Nearly all wind turbines
+monitor the wind speed and the wind direction with sensors
+mounted on the back of the nacelle. Here somewhere,
+that will probably be a cupanometer or maybe even a sonic anameter. Mostly this is used to know when to
+start and stop the wind turbine and to keep it aligned to the wind direction. Turbine control systems actually
+don't usually use these sensors because they can sense the wind speed
+themselves from the rotor speed and from the power produced
+by the wind turbine. And in fact, this position is a very poor
+position for measuring the wind speed as you can imagine, the flow conditions
+behind the rotor are extremely complex. In future turbines, we will probably
+use lidars using light to measure the wind speed in front of the rotor,
+where, of course, you get an extremely good measurement. And critically important, it enables us to measure the wind
+just before it arrives at the rotor. This will allow the control system to
+react in time to a gust that's arriving, to maybe pitch the blades, and then in
+that way to alleviate the loads that will be otherwise acting
+on the wind turbine. In summary, in this lecture,
+you have learnt the main reasons for measuring wind in the wind industry. What we need to measure at different
+stages in a wind project's life, and what wind data look like and
+how we characterize them. Thank you for listening.
